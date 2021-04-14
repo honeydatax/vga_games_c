@@ -8,4 +8,6 @@ https://en.m.wikipedia.org/wiki/Mask_(computing)
 https://en.m.wikipedia.org/wiki/Bit_manipulation
 
 
+https://en.m.wikipedia.org/wiki/Bitwise_operation
+
 
