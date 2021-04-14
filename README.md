@@ -13,3 +13,5 @@ https://en.m.wikipedia.org/wiki/Bitwise_operation
 
 https://en.m.wikipedia.org/wiki/Video_card
 
+
+https://en.m.wikipedia.org/wiki/Video_Graphics_Array
