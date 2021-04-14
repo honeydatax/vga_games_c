@@ -11,3 +11,5 @@ https://en.m.wikipedia.org/wiki/Bit_manipulation
 https://en.m.wikipedia.org/wiki/Bitwise_operation
 
 
+https://en.m.wikipedia.org/wiki/Video_card
+
